@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "D:\\Kerja\\Padepokan 79\\Playground\\ASP.Net-Exploration\\ASPNetReact\\ASPNetReact.Server\\..\\aspnetreact.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

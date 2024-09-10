@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kerja\\Padepokan 79\\Playground\\ASP.Net-Exploration\\ASPMVCTypescript\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{061C813C-EEC0-45C2-BB51-B5A7FE5E9EF0}|ASPMVCTypescript.csproj|d:\\kerja\\padepokan 79\\playground\\asp.net-exploration\\aspmvctypescript\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{061C813C-EEC0-45C2-BB51-B5A7FE5E9EF0}|ASPMVCTypescript.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C813C-EEC0-45C2-BB51-B5A7FE5E9EF0}|ASPMVCTypescript.csproj|d:\\kerja\\padepokan 79\\playground\\asp.net-exploration\\aspmvctypescript\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{061C813C-EEC0-45C2-BB51-B5A7FE5E9EF0}|ASPMVCTypescript.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C813C-EEC0-45C2-BB51-B5A7FE5E9EF0}|ASPMVCTypescript.csproj|d:\\kerja\\padepokan 79\\playground\\asp.net-exploration\\aspmvctypescript\\scripts\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{061C813C-EEC0-45C2-BB51-B5A7FE5E9EF0}|ASPMVCTypescript.csproj|solutionrelative:scripts\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C813C-EEC0-45C2-BB51-B5A7FE5E9EF0}|ASPMVCTypescript.csproj|d:\\kerja\\padepokan 79\\playground\\asp.net-exploration\\aspmvctypescript\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{061C813C-EEC0-45C2-BB51-B5A7FE5E9EF0}|ASPMVCTypescript.csproj|solutionrelative:tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "D:\\Kerja\\Padepokan 79\\Playground\\ASP.Net-Exploration\\ASPMVCTypescript\\tsconfig.json",
+              "RelativeDocumentMoniker": "tsconfig.json",
+              "ToolTip": "D:\\Kerja\\Padepokan 79\\Playground\\ASP.Net-Exploration\\ASPMVCTypescript\\tsconfig.json",
+              "RelativeToolTip": "tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T07:08:10.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Kerja\\Padepokan 79\\Playground\\ASP.Net-Exploration\\ASPMVCTypescript\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Kerja\\Padepokan 79\\Playground\\ASP.Net-Exploration\\ASPMVCTypescript\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T07:06:02.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Kerja\\Padepokan 79\\Playground\\ASP.Net-Exploration\\ASPMVCTypescript\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Kerja\\Padepokan 79\\Playground\\ASP.Net-Exploration\\ASPMVCTypescript\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T07:03:38.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.ts",
+              "DocumentMoniker": "D:\\Kerja\\Padepokan 79\\Playground\\ASP.Net-Exploration\\ASPMVCTypescript\\scripts\\app.ts",
+              "RelativeDocumentMoniker": "scripts\\app.ts",
+              "ToolTip": "D:\\Kerja\\Padepokan 79\\Playground\\ASP.Net-Exploration\\ASPMVCTypescript\\scripts\\app.ts",
+              "RelativeToolTip": "scripts\\app.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-10T06:59:45.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

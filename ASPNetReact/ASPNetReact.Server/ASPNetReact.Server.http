@@ -1,0 +1,6 @@
+@ASPNetReact.Server_HostAddress = http://localhost:5007
+
+GET {{ASPNetReact.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
